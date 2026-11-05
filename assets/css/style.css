@@ -1,0 +1,12 @@
+body { background: #f5f5f5; }
+.navbar-brand { font-weight: 700; }
+.product-card { transition: transform .2s; }
+.product-card:hover { transform: translateY(-4px); }
+.card { border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,.06); border: none; }
+.table thead { background: #212529; color: #fff; }
+.stat-card { border-left: 4px solid #dc3545; }
+.low-stock { background: #fff3cd !important; }
+.badge-pending { background: #ffc107; }
+.badge-processing { background: #0dcaf0; }
+.badge-ready { background: #198754; }
+.badge-completed { background: #6c757d;}
